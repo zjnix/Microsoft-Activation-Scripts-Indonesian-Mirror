@@ -15,20 +15,10 @@
 1.   Buka PowerShell atau Terminal (Bukan Command Prompt atau CMD). Untuk melakukannya, klik kanan pada menu start Windows dan pilih PowerShell atau Terminal.
 2.   Salin dan tempelkan perintah berikut dan klik enter
 ```
-irm https://get.activated.win | iex
+irm https://github.com/zjnix/Microsoft-Activation-Scripts-Indonesian-Mirror/raw/refs/heads/main/irm.ps1 | iex
 ```
 3.   Anda akan melihat opsi aktivasi. Pilih salah satu. [keterangan opsi dibawah ini](https://github.com/zjnix/Microsoft-Activation-Scripts-Indonesian/blob/indonesia/README.md#keterangan-opsi)
 4.   Itu saja.
-
-<details>
-  <summary>Opsi lainnya</summary>
-
-- Alternatifnya, Anda dapat menggunakan URL berikut ini (Ini akan dihentikan dalam waktu dekat)
-```
-irm https://massgrave.dev/get | iex
-```
-- Gunakan ini jika URL `get.activated.win` tidak dapat diakses, kemungkinan URL ini diblokir oleh beberapa penyedia DNS karena itu merupakan domain baru. 
-</details>
 
 ---
 
