@@ -15,7 +15,7 @@
 1.   Buka PowerShell atau Terminal (Bukan Command Prompt atau CMD). Untuk melakukannya, klik kanan pada menu start Windows dan pilih PowerShell atau Terminal.
 2.   Salin dan tempelkan perintah berikut dan klik enter
 ```
-irm https://github.com/zjnix/Microsoft-Activation-Scripts-Indonesian-Mirror/raw/refs/heads/main/irm.ps1 | iex
+irm https://github.com/zjnix/Microsoft-Activation-Scripts-Indonesian-Mirror/raw/refs/heads/main/MAS/irm.ps1 | iex
 ```
 3.   Anda akan melihat opsi aktivasi. Pilih salah satu. [keterangan opsi dibawah ini](https://github.com/zjnix/Microsoft-Activation-Scripts-Indonesian/blob/indonesia/README.md#keterangan-opsi)
 4.   Itu saja.
