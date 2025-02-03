@@ -27,10 +27,16 @@ irm https://github.com/zjnix/Microsoft-Activation-Scripts-Indonesian-Mirror/raw/
 <details>
   <summary>klik disini</summary>
 
-1.   Download file secara manual melalui tautan berikut ini 
+1.   Download file secara manual melalui tautan berikut ini:
+   
+`https://github.com/zjnix/Microsoft-Activation-Scripts-Indonesian-Mirror/archive/refs/heads/main.zip`
+
 `https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`
+
 atau
+
 `https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip`
+
 3.   Klik kanan pada file .zip yang telah didownload dan klik extract
 4.   Pada folder yang telah diekstrak, cari dan masuk kedalam folder `All-In-One-Version`
 5.   Klik dua kali file `MAS_AIO.cmd`
